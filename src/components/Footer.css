@@ -1,0 +1,30 @@
+.footer {
+    background-image: url('../images/background-header-footer.jpg');
+    padding: 4vh;
+    margin-top: 3vh;
+}
+
+.titleFooter {
+    color: white;
+}
+
+.imgFooter {
+    max-width: 30vw;
+}
+
+.aFooter {
+    color: white;
+    margin-left: 10vw;
+    text-decoration: none;
+}
+
+.copyright {
+    margin-top: 5vh;
+}
+
+.pFooter {
+    color: rgb(196, 196, 196);
+    margin: 1vh;
+    text-align: left;
+    font-size: 12px;
+}

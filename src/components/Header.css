@@ -1,0 +1,15 @@
+.header {
+    background-image: url('../images/background-header-footer.jpg');
+    padding: 2vh;
+}
+
+.imgHeader {
+    max-height: 15vh;
+}
+
+.aHeader {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}

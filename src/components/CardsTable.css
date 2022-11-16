@@ -1,0 +1,20 @@
+.randomCardTable {
+    margin-top: 3vh;
+}
+
+.buttonRandom {
+    margin: 3vh;
+}
+
+.tableRandom {
+    margin: 3vh;
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+#generateMssg {
+    color: rgb(150, 150, 150);
+}
